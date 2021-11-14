@@ -1,0 +1,26 @@
+header div{
+    display:inline-flex
+    
+}
+#highscore {
+    color: tomato;
+}
+
+#timer {
+    color: green;
+    float: right;
+}
+
+#codingquiz {
+    text-align: center;
+    font-size: 40px;
+}
+
+#instructions {
+    text-align: center;
+    font-size: 25px;
+}
+
+#start {
+    text-align: center;
+}
