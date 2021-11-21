@@ -1,7 +1,7 @@
 # code_quiz
 
 ## Purpose
-
+To build a timed coding quiz that contains multiple choice questions. Running in the browser and utilizes HTML, CSS, and Javascript.
 
 ## Built With
 * HTML
